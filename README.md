@@ -1,32 +1,34 @@
 # asado2.0-backend
 This is a Java project that simulates a money exchange between a group of users. The program reads a list of users and their account balances, calculates the average balance of all users, and then generates a list of transactions to even out the balances.
 
-Usage<br>
-To use the program, you need to have Java installed on your computer. Follow these steps to run the program:
+## Usage<br>
+To use the program, you need to have Java installed on your computer. Follow these steps to run the program:<br>
 
-Open a terminal or command prompt.
-Navigate to the directory where the program is located.
-Compile the program by running the command javac Main.java.
-Run the program by running the command java Main.
-Functionality
-The program performs the following steps:
+Open a terminal or command prompt.<br>
+Navigate to the directory where the program is located.<br>
+Compile the program by running the command javac Main.java.<br>
+Run the program by running the command java Main.<br>
 
-Reads a list of users and their account balances.
-Calculates the average balance of all users.
-Generates a list of transactions to even out the balances.
-Outputs the list of transactions.
-Input
-The program reads a list of users and their account balances from the usuarios ArrayList.
+## Functionality<br>
+The program performs the following steps:<br>
 
-Output
-The program outputs a list of transactions to the console.
+Reads a list of users and their account balances.<br>
+Calculates the average balance of all users.<br>
+Generates a list of transactions to even out the balances.<br>
+Outputs the list of transactions.<br>
 
-Known Issues
-There are no known issues with this program at this time.
+## Input<br>
+The program reads a list of users and their account balances from the usuarios ArrayList.<br>
 
-Future Development
-Future development of this program could include:
+## Output<br>
+The program outputs a list of transactions to the console.<br>
 
-Adding input validation to ensure that user input is in the correct format.
-Adding the ability to read user input from a file.
-Adding the ability to save the list of transactions to a file.
+## Known Issues<br>
+There are no known issues with this program at this time.<br>
+
+## Future Development<br>
+Future development of this program could include:<br>
+
+Adding input validation to ensure that user input is in the correct format.<br>
+Adding the ability to read user input from a file.<br>
+Adding the ability to save the list of transactions to a file.<br>
