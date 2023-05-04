@@ -1,7 +1,7 @@
 # asado2.0-backend
 This is a Java project that simulates a money exchange between a group of users. The program reads a list of users and their account balances, calculates the average balance of all users, and then generates a list of transactions to even out the balances.
 
-Usage
+Usage<br>
 To use the program, you need to have Java installed on your computer. Follow these steps to run the program:
 
 Open a terminal or command prompt.
