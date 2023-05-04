@@ -1,0 +1,6 @@
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Agustin', 1500, 'agustin.mp')
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Oscar', 3000, 'oscar.mp')
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Rolando', 2000, 'rolando.mp')
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Nacho', 1000, 'nacho.mp')
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Vene', 500, 'vene.mp')
+INSERT INTO usuarios (nombre, dinero, alias) VALUES ('Facu', 3000, 'facu.mp')
